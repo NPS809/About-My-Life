@@ -1,2 +1,2 @@
 # AboutMyLife
-Fun project - your useless life time calculator
+Fun project - time  calculator of your useless life 
